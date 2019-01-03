@@ -20,6 +20,7 @@ ________________
 
 #### VENUE
 - Venue should initialize with a title and city
+  - A venue should be able to change its title, but not its city
 - Venue should have a method Venue.all method which returns all the instances of Venue
 - Venue should have a method Venue#concerts that lists all the concerts that have ever been performed in that venue
 - Venue should have a method Venue#bands that lists all the bands that have ever played in that venue
